@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ ZULL REAL XD ❳━━━
+return`━━━❲ THE BOT EZZA ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Zull Real
- • *Umur:* 18 tahun
- • *Hoby:* Turu/ML
- • *Askot:* Bandung
+ • *Nama:* Ezza
+ • *Umur:* 20 tahun
+ • *Hoby:* Main Slot
+ • *Askot:* Purworejo
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 0895386859422
- • *Youtube:* Zull Real
+ • *Whatsapp:* +62 899-0098-008
+ • *Youtube:* Ezaa Bot
  • *Github:* ada
  `
 }
